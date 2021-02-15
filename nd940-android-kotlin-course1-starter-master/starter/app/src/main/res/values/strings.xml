@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zappatitas</string>
+    <string name="login_title">Login to Zappatitas</string>
+    <string name="enter_your_email_address">Your email address</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="login_error">There was an error with your login</string>
+    <string name="welcome_title">Welcome to Zappatitas!</string>
+    <string name="welcome_text">The best shoe store for girls. We specialize in princess shoes,
+    ballet slippers, and all the shoes your little princess needs for those special occasions.</string>
+    <string name="instructions">
+        We believe that we can change the things around us in accordance with our desires—we believe it
+        because otherwise we can see no favourable outcome. We do not think of the outcome which
+        generally comes to pass and is also favourable: we do not succeed in changing things in
+        accordance with our desires, but gradually our desires change. \n \n The situation that we hoped
+        to change because it was intolerable becomes unimportant to us. We have failed to surmount
+        the obstacle, as we were absolutely determined to do, but life has taken us round it, led
+        us beyond it, and then if we turn round to gaze into the distance of the past, we can
+        barely see it, so imperceptible has it become.
+    </string>
+    <string name="instructions_title">How to Use Zappatitas</string>
+    <string name="next">Next</string>
+    <string name="shop">Start Shopping</string>
+    <string name="listing_title">Current Inventory</string>
+</resources>

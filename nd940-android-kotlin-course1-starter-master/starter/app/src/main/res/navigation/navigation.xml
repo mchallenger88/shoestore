@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/loginFragment">
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.udacity.shoestore.login.LoginFragment"
+        android:label="login_fragment"
+        tools:layout="@layout/login_fragment">
+        <action
+            android:id="@+id/action_loginFragment_to_onboardingFragment"
+            app:destination="@id/onboardingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/onboardingFragment"
+        android:name="com.udacity.shoestore.onboarding.OnboardingFragment"
+        android:label="onboarding_fragment"
+        tools:layout="@layout/onboarding_fragment" >
+        <action
+            android:id="@+id/action_onboardingFragment_to_instructionsFragment"
+            app:destination="@id/instructionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/instructionsFragment"
+        android:name="com.udacity.shoestore.onboarding.InstructionsFragment"
+        android:label="InstructionsFragment"
+        tools:layout="@layout/instructions_fragment">
+        <action
+            android:id="@+id/action_instructionsFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.udacity.shoestore.store.ListFragment"
+        android:label="ListFragment"
+        tools:layout="@layout/listing_fragment"/>
+</navigation>
