@@ -23,4 +23,6 @@
     <string name="next">Next</string>
     <string name="shop">Start Shopping</string>
     <string name="listing_title">Current Inventory</string>
+    <string name="button_add">Add New Shoe</string>
+    <string name="edit_shoe_title">Edit Shoe Details</string>
 </resources>
