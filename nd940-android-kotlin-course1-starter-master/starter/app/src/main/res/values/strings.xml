@@ -25,4 +25,17 @@
     <string name="listing_title">Current Inventory</string>
     <string name="button_add">Add New Shoe</string>
     <string name="edit_shoe_title">Edit Shoe Details</string>
+
+    <string name="shoe_name">Name:</string>
+    <string name="shoe_company">Company:</string>
+    <string name="shoe_size">Size:</string>
+    <string name="shoe_description">Description:</string>
+
+    <string name="edit_shoe_name">Edit Shoe Name</string>
+    <string name="edit_shoe_company">Edit Shoe Company</string>
+    <string name="edit_shoe_size">Edit Shoe Size</string>
+    <string name="edit_shoe_description">Edit Shoe Description</string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>
