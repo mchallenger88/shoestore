@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!--
+    ~ I used the drawer layout because I couldn't get the Coordinator Layout to show the
+    up button. After using the drawer layout from one of the earlier lessons, it still didn't work
+    and I found that I had to change the theme in the manifest. I didn't go back to check if that
+    would have enabled the up button in the Coordinator Layout.
+  -->
 <layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

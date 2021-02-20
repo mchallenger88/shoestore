@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!--
+    ~ I used the ScollView and Linear Layout after I spend a good bit of time unsuccessfully
+    implementing a RecyclerView. Glad it came up in the next lesson. :)
+  -->
 <layout
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android" >

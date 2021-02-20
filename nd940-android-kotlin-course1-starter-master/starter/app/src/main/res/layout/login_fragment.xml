@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layout xmlns:tools="http://schemas.android.com/tools"
+<?xml version="1.0" encoding="utf-8"?><!--
+    ~ I used the Constraint Layout because it seems the easiest
+    to use to get elements positioned correctly on the screen.
+  -->
+<layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <data>
